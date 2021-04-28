@@ -1,3 +1,5 @@
+delete from tb_clientes;
+
 insert into tb_clientes(apellido,create_at,email,nombre) values('Oyola','2019-12-20','ally@gmail.com','Ally')
 insert into tb_clientes(apellido,create_at,email,nombre) values('Tello','2020-11-20','Bill@gmail.com','Bill')
 insert into tb_clientes(apellido,create_at,email,nombre) values('Perez','2002-10-28','Carls@gmail.com','Carls')
